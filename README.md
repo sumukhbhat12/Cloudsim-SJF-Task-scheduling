@@ -1,7 +1,7 @@
 # Cloudsim-SJF-Task-scheduling college project
 
 SJF Scheduling paper is the paper from which the modified sjf algorithm has been implemented.
-Replace the DatacenterBroker.java file in the cloudsim simulator with the DatacenterBroker.java file from the above folder for the corresponding scheduling algorithms.
+Replace the DatacenterBroker.java file in the cloudsim simulator with the DatacenterBroker.java file from any of the above folders for the corresponding scheduling algorithms.
 Copy and Paste the simulation.java file into the Examples directory in the cloudsim folder.
 run the simulation.java file in eclipse.
 
